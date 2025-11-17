@@ -1,4 +1,4 @@
-# 🌟 Portfolio Website       (⭐⭐⭐ Do not forget to give star if you like this project ⭐⭐⭐)
+# 🌟 Portfolio Website 
 
 A modern, responsive, and interactive portfolio website built with HTML5, CSS3, and JavaScript. Showcase your work, skills, and experience in a clean, professional manner.
 
@@ -24,23 +24,9 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 3. Open `index.html` in your browser
 
 
-## 🛠️ Update Your Information
-
-1. Open `index.html`
-2. Update the following sections:
-   - Hero section with your name and title
-   - About section with your bio
-   - Skills section with your expertise
-   - Projects/Portfolio section with your work
-   - Contact information
-
-## 📱 Responsive Breakpoints
-- Mobile: Up to 768px
-- Tablet: 769px - 1024px
-- Desktop: 1025px and above
-
 ## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
+
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE] file for details.
