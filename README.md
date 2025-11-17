@@ -1,3 +1,8 @@
-# This is simple portfolio website.
+# This is Super Simple Portfolio Website.
 
-using HTML5, CSS3 and Javascript.
+>> HTML5, CSS3 and Javascipt
+>> Mordern and Responsive design
+>> Smooth animation and Transition
+>> Touch Friendly interface
+>> Professional structure 
+
