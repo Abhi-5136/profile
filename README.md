@@ -1,4 +1,4 @@
-# 🌟 Portfolio Website 
+## 🌟 Super Simple Portfolio Website 
 
 A modern, responsive, and interactive portfolio website built with HTML5, CSS3, and JavaScript. Showcase your work, skills, and experience in a clean, professional manner.
 
@@ -10,8 +10,9 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - 📱 **Touch-Friendly** - Works perfectly on touch devices
 - 🌈 **Customizable** - Easy to modify and extend
 
-<br>
-##  🤝 Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
+
+##  🤝 Contributions
+Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
 
 
 ---
