@@ -1,4 +1,4 @@
-# 🌟 Portfolio Website
+# 🌟 Portfolio Website       (⭐⭐⭐ Do not forget to give star if you like this project ⭐⭐⭐)
 
 A modern, responsive, and interactive portfolio website built with HTML5, CSS3, and JavaScript. Showcase your work, skills, and experience in a clean, professional manner.
 
@@ -11,7 +11,7 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - 🌈 **Customizable** - Easy to modify and extend
 
 
-### 🚀 Installation
+## 🚀 Installation
 
 1. Clone the repository:
    ```bash
@@ -22,9 +22,7 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
    cd portfolio
    ```
 3. Open `index.html` in your browser
-   ```bash
-       ⭐⭐⭐ Do not forget to give star if you like this project 
-   ```
+
 
 ## 🛠️ Update Your Information
 
