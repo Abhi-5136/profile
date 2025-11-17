@@ -1,9 +1,5 @@
 # 🌟 Portfolio Website
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 A modern, responsive, and interactive portfolio website built with HTML5, CSS3, and JavaScript. Showcase your work, skills, and experience in a clean, professional manner.
 
 ## ✨ Features
@@ -27,11 +23,12 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
    cd portfolio
    ```
 3. Open `index.html` in your browser
+   ```bash
+   Do not forget to give star if you like this project 
+   ```
 
+## 🛠️ Update Your Information
 
-## 🛠️ Customization
-
-### Update Your Information
 1. Open `index.html`
 2. Update the following sections:
    - Hero section with your name and title
