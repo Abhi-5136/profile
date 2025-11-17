@@ -1,0 +1,5 @@
+/*Resume Page styles */
+.resume-hero{
+  padding:120px 0 60px;
+  background: var(--light-bg);
+}
