@@ -2,7 +2,7 @@
 
 A modern, responsive, and interactive portfolio website built with HTML5, CSS3, and JavaScript. Showcase your work, skills, and experience in a clean, professional manner.
 
-## ✨ Features
+##  Features
 
 - 🎨 **Modern & Responsive Design** - Looks great on all devices
 - ⚡ **Performance Optimized** - Fast loading and smooth animations
@@ -11,7 +11,7 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - 🌈 **Customizable** - Easy to modify and extend
 
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -24,12 +24,9 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 3. Open `index.html` in your browser
 
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
 
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ---
 
