@@ -28,14 +28,10 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
    ```
 3. Open `index.html` in your browser
 
+
 ## 🛠️ Customization
 
-### Change Content
-- Update `index.html` to modify the structure and content
-- Edit `styles.css` to change the design and layout
-- Modify `script.js` for interactive elements
-
-### Add Your Information
+### Update Your Information
 1. Open `index.html`
 2. Update the following sections:
    - Hero section with your name and title
@@ -53,9 +49,9 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ---
 
-Made with ❤️ by [Abhishek Mishra] | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Made with ❤️ by Abhishek Mishra | [LinkedIn](https://www.linkedin.com/in/abhimishra5136?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
