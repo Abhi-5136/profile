@@ -10,21 +10,7 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - 📱 **Touch-Friendly** - Works perfectly on touch devices
 - 🌈 **Customizable** - Easy to modify and extend
 
-
-##  Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio
-   ```
-3. Open `index.html` in your browser
-
 <br>
-
 ##  🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
 
