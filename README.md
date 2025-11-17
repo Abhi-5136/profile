@@ -14,11 +14,8 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - 📱 **Touch-Friendly** - Works perfectly on touch devices
 - 🌈 **Customizable** - Easy to modify and extend
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML, CSS, and JavaScript
+## 🚀 Getting Started
 
 ### Installation
 1. Clone the repository:
@@ -52,24 +49,11 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - Tablet: 769px - 1024px
 - Desktop: 1025px and above
 
-## 🧪 Testing
-Tested on:
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile devices (various screen sizes)
-
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-- [Font Awesome](https://fontawesome.com/) for icons
-- [Google Fonts](https://fonts.google.com/) for typography
-- [Shields.io](https://shields.io/) for badges
 
 ---
 
