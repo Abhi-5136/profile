@@ -11,8 +11,7 @@ A modern, responsive, and interactive portfolio website built with HTML5, CSS3, 
 - 🌈 **Customizable** - Easy to modify and extend
 
 <br>
-##  🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
+##  🤝 Contributions are welcome! Please feel free to submit a Pull Request.And ⭐ Do not forget to give star if you like this project ⭐.
 
 
 ---
