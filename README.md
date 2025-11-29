@@ -2,14 +2,6 @@
 
 A modern, responsive, and interactive portfolio website built with HTML5, CSS3, and JavaScript. Showcase your work, skills, and experience in a clean, professional manner.
 
-##  Features
-
-- 🎨 **Modern & Responsive Design** - Looks great on all devices
-- ⚡ **Performance Optimized** - Fast loading and smooth animations
-- 🎯 **Interactive Elements** - Engaging user experience
-- 📱 **Touch-Friendly** - Works perfectly on touch devices
-- 🌈 **Customizable** - Easy to modify and extend
-
 
 ##  🤝 Contributions
 Please feel free to submit a Pull Request.And Do not forget to give star⭐ if you really like this project .
