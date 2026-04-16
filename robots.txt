@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Host: www.abhimishra.me
 
-Sitemap: https://abhimishra.me/sitemap.xml
+Sitemap: https://www.abhimishra.me/sitemap.xml
