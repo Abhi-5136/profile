@@ -57,7 +57,8 @@
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="styles-pages.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
 </head>
@@ -107,7 +108,7 @@
             <div class="resume-hero-content">
 
                 <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1584&h=396&q=80"
-                    alt="Resume Banner" class="resume-banner">
+                    alt="Resume Banner" class="resume-banner" width="1584" height="396" fetchpriority="high" decoding="async">
                 <h1 class="resume-title">RESUME</h1>
 
             </div>

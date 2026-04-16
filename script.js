@@ -43,7 +43,7 @@ window.addEventListener('scroll', () => {
 
     // Ensure active state is preserved without removing it first
     ensureActiveState();
-});
+}, { passive: true });
 
 // Function to ensure active state without removing existing active classes
 function ensureActiveState() {
@@ -94,18 +94,8 @@ document.addEventListener('DOMContentLoaded', () => {
     setActiveState();
 });
 
-// Also ensure active state on window resize or any other events that might affect it
-window.addEventListener('resize', ensureActiveState);
-
-// Additional event listeners to ensure active state persistence
-document.addEventListener('mouseover', ensureActiveState);
-document.addEventListener('click', ensureActiveState);
-
-// Force active state check every 100ms for the first 3 seconds (temporary fix)
-let forceCheckInterval = setInterval(ensureActiveState, 100);
-setTimeout(() => {
-    clearInterval(forceCheckInterval);
-}, 3000);
+// Keep the active state in sync when the viewport changes.
+window.addEventListener('resize', ensureActiveState, { passive: true });
 
 // Smooth Scrolling for Navigation Links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -212,7 +202,7 @@ window.addEventListener('scroll', () => {
         const speed = 0.5 + (index * 0.2);
         icon.style.transform = `translateY(${scrolled * speed}px)`;
     });
-});
+}, { passive: true });
 
 // Form Validation and Submission
 const contactForm = document.querySelector('.contact-form');
@@ -358,59 +348,6 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
-
-// Cursor Trail Effect (optional - remove if you don't want it)
-let mouseTrail = [];
-const maxTrailLength = 20;
-
-document.addEventListener('mousemove', (e) => {
-    if (window.innerWidth > 768) { // Only on desktop
-        createTrailParticle(e.clientX, e.clientY);
-    }
-});
-
-function createTrailParticle(x, y) {
-    const particle = document.createElement('div');
-    particle.className = 'trail-particle';
-    particle.style.cssText = `
-        position: fixed;
-        width: 8px;
-        height: 8px;
-        background: linear-gradient(135deg, #667eea, #764ba2);
-        border-radius: 50%;
-        pointer-events: none;
-        z-index: 9999;
-        left: ${x}px;
-        top: ${y}px;
-        opacity: 0.6;
-        transition: all 0.5s ease;
-    `;
-
-    document.body.appendChild(particle);
-    mouseTrail.push(particle);
-
-    // Animate particle
-    setTimeout(() => {
-        particle.style.transform = 'scale(0)';
-        particle.style.opacity = '0';
-    }, 100);
-
-    // Remove particle after animation
-    setTimeout(() => {
-        if (particle.parentNode) {
-            particle.parentNode.removeChild(particle);
-        }
-        mouseTrail = mouseTrail.filter(p => p !== particle);
-    }, 600);
-
-    // Limit trail length
-    if (mouseTrail.length > maxTrailLength) {
-        const oldParticle = mouseTrail.shift();
-        if (oldParticle.parentNode) {
-            oldParticle.parentNode.removeChild(oldParticle);
-        }
-    }
-}
 
 // Loading Animation
 window.addEventListener('load', () => {
